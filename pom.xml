@@ -13,6 +13,13 @@
             <artifactId>telegrambots</artifactId>
             <version>3.0.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.arcaneless</groupId>
+            <artifactId>ablmccapi</artifactId>
+            <version>1.1</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/main/resources/ablmccapi-1.1-jar-with-dependencies.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>

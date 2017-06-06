@@ -7,7 +7,6 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 import org.telegram.telegrambots.logging.BotLogger;
 
 import java.util.logging.ConsoleHandler;
-import java.util.logging.Logger;
 
 public class TGBot {
     protected static final String LOGTAG = "MAIN";
