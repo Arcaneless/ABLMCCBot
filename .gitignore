@@ -1,0 +1,15 @@
+
+.DS_Store
+.gitignore
+.idea/
+TGBot.iml
+out/
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/main/java/com/killing3k/.DS_Store
+src/main/java/com/killing3k/tgbot/.DS_Store
+src/main/resources/
+src/test/
+target/
